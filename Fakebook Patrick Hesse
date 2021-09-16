@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fakebook</title>
+    </head>
+
+    <body>
+        <h1>Fakebook</h1>
+
+        Suche: <input type="text" placeholder="Suche"><br>
+        <br>
+        <h2>Patrick Hesse</h2>
+        <img src="https://www.animaatjes.de/cliparts/cartoons/spongebob/clipart_spongebob_animaatjes-10.jpg" height="200" width="200">
+        <br>
+        <br>
+        <button>Freundschaftsanfrage senden</button>
+        <br>
+        <br>
+        <b>Wohnort:</b> Vechta<br>
+        <br>
+        <b>Alter:</b> 28<br>
+        <br>
+        <b>Hobbys:</b>
+        <ul>
+            <li>Handball</li>
+            <li>Party</li>
+            <li>DJ</li>
+        </ul>
+    </body>
+</html>
